@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bandeaucnilcookies</name>
+	<displayName><![CDATA[Bandeau CNIL Cookies (Loi europ&eacute;enne)]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Affichage d&#039;un bandeau avertissant l&#039;utilisateur de l&#039;utilisation de Cookies sur votre site (relatif &agrave; la loi europ&eacute;enne et CNIL). Ce bandeau ne s&#039;affiche qu&#039;une seule fois.]]></description>
+	<author><![CDATA[Hadrien Boyer]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr de bien vouloir supprimer ce module ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
