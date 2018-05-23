@@ -3,4 +3,4 @@ Affichage d’un bandeau avertissant l’utilisateur de l’utilisation de Cooki
 
 # Installation
 
-Copiez simplement le dossier dans le dossier "./modules/" de Prestashop et activez le plugin. C'est tout !
+Copiez simplement le dossier dans le dossier "/modules/" de Prestashop et activez le plugin. C'est tout !
