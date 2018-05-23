@@ -1,4 +1,4 @@
-# Prestashop-Plugin-Bandeau-CNIL-Cookies
+# Module Prestashop : Bandeau CNIL Cookies Loi Européenne
 Affichage d’un bandeau avertissant l’utilisateur de l’utilisation de Cookies sur votre site (relatif à la loi européenne et CNIL). Ce bandeau ne s’affiche qu’une seule fois.
 
 # Installation
